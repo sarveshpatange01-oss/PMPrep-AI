@@ -107,4 +107,3 @@ MIT — feel free to fork and adapt for your own interview prep.
 
 ## Author
 
-Built by Shreyash — [LinkedIn](https://linkedin.com) · [@Shreyash021104](https://x.com/Shreyash021104)
